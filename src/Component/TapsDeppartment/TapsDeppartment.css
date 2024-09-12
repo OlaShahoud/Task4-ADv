@@ -1,0 +1,8 @@
+.nav-linkk.active {
+    border-right: 3px solid #3FBBC0!important;
+    color: #3FBBC0!important;
+}
+
+.nav-linkk {
+    border-right: 3px solid #e7e6e6!important;
+}

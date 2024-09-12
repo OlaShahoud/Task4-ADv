@@ -1,0 +1,22 @@
+.width {
+    min-width: 300px!important;
+}
+
+@media (max-width: 1200px) {
+    .marginCard {
+        margin-left: 0!important;
+    }
+}
+
+@media (max-width: 799px) {
+    .marginCard1 {
+        margin-left: 10px!important;
+        margin-right: 10px!important;
+    }
+}
+
+@media (max-width: 400px) {
+    .width {
+        min-width: 200px!important;
+    }
+}

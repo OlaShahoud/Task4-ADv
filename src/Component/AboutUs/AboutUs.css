@@ -1,0 +1,42 @@
+                .size1 {
+                    width: 70px;
+                    height: 70px;
+                    box-shadow: 0px 0px 20px 10px #3cbbf0!important;
+                }
+                
+                @media (max-width: 1200px) {
+                    .imgAbout {
+                        width: 500px !important;
+                    }
+                }
+                
+                @media (max-width: 950px) {
+                    .imgAbout {
+                        width: 700px !important;
+                    }
+                    .marginCol {
+                        margin-right: 0%!important;
+                        margin-left: 0%!important;
+                    }
+                    .marginColl {
+                        margin-left: 6rem !important;
+                    }
+                }
+                
+                @media (max-width: 800px) {
+                    .imgAbout {
+                        width: 500px !important;
+                    }
+                }
+                
+                @media (max-width: 550px) {
+                    .imgAbout {
+                        width: 400px !important;
+                    }
+                }
+                
+                @media (max-width: 400px) {
+                    .imgAbout {
+                        width: 300px !important;
+                    }
+                }

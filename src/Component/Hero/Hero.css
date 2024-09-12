@@ -1,0 +1,17 @@
+.bottom {
+    bottom: 20%!important;
+    height: max-content!important;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 20px !important;
+    height: 20px!important;
+    background-color: #3cbbf0!important;
+    border-radius: 50%!important;
+}
+
+@media (max-width: 647px) {
+    .bottom {
+        bottom: 10%!important;
+    }
+}
